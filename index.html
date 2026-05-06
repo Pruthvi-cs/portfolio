@@ -1,86 +1,35 @@
-<main>
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Computer Science student at MITE. I bridge the gap between hardware and software, with a focus on embedded systems and secure development.</p>
-    </section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+</head>
+<body>
+    <header>
+        <h1>[Your Name]</h1>
+        <p>Computer Science Student | Tech Enthusiast</p>
+    </header>
 
-    <section id="projects">
-        <h2>Featured Projects</h2>
-        <div class="project-grid">
-            <!-- Project 1: Hardware -->
-            <article class="project-card">
-                <h3>Women's Safety Device</h3>
-                <p>An IoT wearable built for personal safety. Features hardware integration and 3D-modeled casing.</p>
-                <span class="tag">Embedded Systems</span>
-                <span class="tag">Hardware</span>
-            </article>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>I'm a developer focused on building secure and efficient hardware-software solutions.</p>
+        </section>
 
-            <!-- Project 2: Web/Data -->
-            <article class="project-card">
-                <h3>Blood Bank Management</h3>
-                <p>A regional system designed to connect donors and hospitals in Karnataka efficiently.</p>
-                <span class="tag">Web Dev</span>
-                <span class="tag">Database</span>
-            </article>
+        <section>
+            <h2>Current Focus</h2>
+            <ul>
+                <li>Embedded Systems & IoT</li>
+                <li>Cybersecurity & Ethical Hacking</li>
+                <li>Web Development</li>
+            </ul>
+        </section>
+    </main>
 
-            <!-- Project 3: Embedded -->
-            <article class="project-card">
-                <h3>ESP32 Smart Page</h3>
-                <p>A web dashboard for ESP32 devices utilizing Google Sheets as a real-time backend.</p>
-                <span class="tag">IoT</span>
-                <span class="tag">API</span>
-            </article>
-        </div>
-    </section>
-</main>
-<style>
-    :root {
-        --primary: #2ea44f; /* GitHub Green */
-        --dark: #0d1117;
-        --light: #c9d1d9;
-        --card-bg: #161b22;
-    }
-
-    body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-        background-color: var(--dark);
-        color: var(--light);
-        line-height: 1.6;
-        padding: 2rem;
-        max-width: 900px;
-        margin: 0 auto;
-    }
-
-    .project-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: 1.5rem;
-        margin-top: 1rem;
-    }
-
-    .project-card {
-        background: var(--card-bg);
-        border: 1px solid #30363d;
-        border-radius: 8px;
-        padding: 1.5rem;
-        transition: transform 0.2s;
-    }
-
-    .project-card:hover {
-        transform: translateY(-5px);
-        border-color: var(--primary);
-    }
-
-    .tag {
-        display: inline-block;
-        background: #23863626;
-        color: var(--primary);
-        font-size: 0.75rem;
-        padding: 0.2rem 0.6rem;
-        border-radius: 20px;
-        margin-right: 5px;
-        border: 1px solid var(--primary);
-    }
-    
-    h2 { border-bottom: 1px solid #30363d; padding-bottom: 10px; }
-</style>
+    <footer>
+        <p>© 2026 | Built with GitHub Pages</p>
+    </footer>
+</body>
+</html>

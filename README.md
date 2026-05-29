@@ -4,5 +4,3 @@
 
 You can explore the live, fully interactive website right here:
 👉 **[Demo](https://pruthvi-cs.github.io/portfolio/)** 🌟
-
----

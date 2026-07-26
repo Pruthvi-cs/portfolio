@@ -110,7 +110,7 @@ open_to:
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pruthvi-cs/Pruthvi-cs/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Pruthvi-cs/portfolio/output/snake.svg" alt="snake animation" />
 </div>
 
 > ⚠️ Snake animation needs a GitHub Action workflow to generate the `output/snake.svg` file.  

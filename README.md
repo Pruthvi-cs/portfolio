@@ -324,3 +324,260 @@ Before I generate final content, share these 6 details so I can make it accurate
    - AI Engineer / IoT Engineer / Full-Stack Developer / AI+IoT Developer
 
 If you want, I can also generate it **immediately with placeholders** and you can replace them later.
+Awesome — perfect approach.  
+Since you’ll paste details later, here’s a **professional README v2 template** (with placeholders) for your file:
+
+`https://github.com/Pruthvi-cs/portfolio/blob/main/README.md`
+
+Copy-paste this full content:
+
+```md
+<!-- =========================================================
+  Pruthvi Portfolio README v2 (Professional + Animated + 3D)
+  Replace all placeholders marked with <...>
+========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00C2FF&center=true&vCenter=true&width=980&lines=Hi+%F0%9F%91%8B+I'm+Pruthvi;AI+%2B+IoT+Developer;Building+Practical+Intelligent+Systems;Open+to+Collaboration+%7C+Internships+%7C+Full-time+Roles" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/Pruthvi-cs">
+  <img src="https://img.shields.io/badge/GitHub-Pruthvi--cs-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:<YOUR_EMAIL>">
+  <img src="https://img.shields.io/badge/Email-Contact-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="<YOUR_LINKEDIN_URL>">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="<YOUR_DEMO_URL>">
+  <img src="https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Pruthvi
+role: <AI + IoT Developer>
+focus:
+  - Edge AI
+  - Embedded Systems (ESP32)
+  - Backend + Full-Stack Integration
+goal: Building real-world systems with measurable impact
+```
+
+I design and build projects that combine **AI, IoT, and modern software engineering**.  
+This portfolio highlights my best work, technical strengths, and ongoing learning journey.
+
+---
+
+## ⚡ Quick Highlights
+
+- 🔌 Built **ESP32 + Telegram + Dashboard** automation system  
+- 🧠 Developed **computer vision safety project** (drowsiness detection)  
+- 🛡️ Worked on **backend systems** for safety-focused applications  
+- 🚀 Improving project quality with better architecture, docs, and deployment
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,nodejs,git,github,vscode,linux" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 1) Smart IoT Control System with ESP32 + Telegram
+- **Stack:** ESP32, C++, Telegram Bot, Web Dashboard  
+- **What it does:** Remote control + monitoring of IoT devices using chat commands and dashboard.  
+- **Repo:** https://github.com/Pruthvi-cs/Smart-IoT-Control-System-with-ESP32-and-TELEGRAM
+
+### 2) Drowsiness Detection System (DDS)
+- **Stack:** Python, Jupyter, Computer Vision  
+- **What it does:** Detects fatigue/drowsiness patterns for safety use cases.  
+- **Repo:** https://github.com/Pruthvi-cs/Drowsiness_Detection_System-DDS
+
+### 3) Women Safety Backend
+- **Stack:** JavaScript, Backend APIs  
+- **What it does:** Supports core backend logic for safety-oriented app workflows.  
+- **Repo:** https://github.com/Pruthvi-cs/women-safety-backend
+
+### 4) ESP32 NET Monitor
+- **Stack:** C, Embedded Networking  
+- **What it does:** Monitoring and network behavior exploration on ESP32.  
+- **Repo:** https://github.com/Pruthvi-cs/ESP32_NET_Monitor-
+
+---
+
+## 🧱 Architecture (Sample)
+
+```text
+User/Client
+   ↓
+Frontend / Dashboard
+   ↓
+Backend API Layer
+   ↓
+ML Model / IoT Device (ESP32) / Database
+```
+
+> Replace with a visual diagram image later:
+```md
+<!-- ![Architecture](assets/architecture.png) -->
+```
+
+---
+
+## 🖼️ Screenshots / Demo Gallery
+
+<div align="center">
+
+| Home | Dashboard |
+|---|---|
+| ![Home](<SCREENSHOT_1_PATH>) | ![Dashboard](<SCREENSHOT_2_PATH>) |
+
+| Feature 1 | Feature 2 |
+|---|---|
+| ![Feature1](<SCREENSHOT_3_PATH>) | ![Feature2](<SCREENSHOT_4_PATH>) |
+
+</div>
+
+> Example paths: `assets/home.png`, `assets/dashboard.png`
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pruthvi-cs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pruthvi-cs&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=Pruthvi-cs&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pruthvi-cs&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🐍 Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pruthvi-cs/Pruthvi-cs/output/snake.svg" alt="snake animation" />
+</div>
+
+---
+
+## 🧊 3D Contribution Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pruthvi-cs/Pruthvi-cs/output/profile-night-rainbow.svg" alt="3D contribution graph" />
+</div>
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Try it here:** <YOUR_DEMO_URL>
+
+---
+
+## 📦 Project Setup
+
+```bash
+# 1) Clone repository
+git clone https://github.com/Pruthvi-cs/portfolio.git
+
+# 2) Enter project folder
+cd portfolio
+
+# 3) Install dependencies
+# (update based on your stack)
+npm install
+
+# 4) Run locally
+npm run dev
+```
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file:
+
+```env
+# Example only
+API_KEY=<YOUR_API_KEY>
+BASE_URL=<YOUR_BASE_URL>
+```
+
+---
+
+## 🧪 Quality & Workflow
+
+- [ ] Add tests
+- [ ] Add linting
+- [ ] Add CI workflow (GitHub Actions)
+- [ ] Add deployment pipeline
+
+Badges (enable after setup):
+```md
+![Build](https://img.shields.io/github/actions/workflow/status/Pruthvi-cs/portfolio/<workflow-file>.yml?style=flat-square)
+![License](https://img.shields.io/github/license/Pruthvi-cs/portfolio?style=flat-square)
+```
+
+---
+
+## 🗺️ Roadmap (2026)
+
+- [ ] Polish top projects with full documentation
+- [ ] Add architecture diagrams and walkthrough videos
+- [ ] Increase open-source contributions
+- [ ] Improve testing + performance benchmarking
+
+---
+
+## 🤝 Collaboration
+
+I’m open to collaborations in:
+- AI/ML applications  
+- IoT + embedded intelligence  
+- Backend APIs & automation systems  
+
+📬 **Email:** <YOUR_EMAIL>  
+🔗 **LinkedIn:** <YOUR_LINKEDIN_URL>  
+💻 **GitHub:** https://github.com/Pruthvi-cs
+
+---
+
+## 📄 Resume
+
+📎 **Download Resume:** <YOUR_RESUME_LINK>
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+(You can add `LICENSE` file if not present.)
+```
+
+---
+
+If you want next, I can give you a **fill-in checklist** (just 2 minutes) so you can replace all placeholders without missing anything.

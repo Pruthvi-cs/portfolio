@@ -307,29 +307,6 @@ I’m open to collaborations in:
 This portfolio repository is available under the **MIT License** (add one if not present).
 ```
 
----
-
-If you want, I can also give you:
-1. a **matching `LICENSE` (MIT) file**, and  
-2. a **clean project-folder structure** for `portfolio` (assets, screenshots, docs, resume) so this README looks even more professional.Perfect. I can now create a **ready-to-paste upgraded README v2** tailored to your `portfolio` repo.
-
-Before I generate final content, share these 6 details so I can make it accurate (no placeholders):
-
-1. **Email** to display  
-2. **LinkedIn URL**  
-3. **Live demo URL** (if deployed)  
-4. **Resume link** (Google Drive or file in repo)  
-5. **Top 4 screenshots paths** (e.g., `assets/home.png`)  
-6. **Preferred role title**  
-   - AI Engineer / IoT Engineer / Full-Stack Developer / AI+IoT Developer
-
-If you want, I can also generate it **immediately with placeholders** and you can replace them later.
-Awesome — perfect approach.  
-Since you’ll paste details later, here’s a **professional README v2 template** (with placeholders) for your file:
-
-`https://github.com/Pruthvi-cs/portfolio/blob/main/README.md`
-
-Copy-paste this full content:
 
 ```md
 <!-- =========================================================

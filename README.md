@@ -5,6 +5,45 @@
 You can explore the live, fully interactive website right here:
 👉 **[Demo](https://pruthvi-cs.github.io/portfolio/)** 🌟
 
+
+<!-- =========================================================
+  Pruthvi Portfolio README v2 (Professional + Animated + 3D)
+  Replace all placeholders marked with <...>
+========================================================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00C2FF&center=true&vCenter=true&width=980&lines=Hi+%F0%9F%91%8B+I'm+Pruthvi;AI+%2B+IoT+Developer;Building+Practical+Intelligent+Systems;Open+to+Collaboration+%7C+Internships+%7C+Full-time+Roles" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/Pruthvi-cs">
+  <img src="https://img.shields.io/badge/GitHub-Pruthvi--cs-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:<YOUR_EMAIL>">
+  <img src="https://img.shields.io/badge/Email-Contact-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="<YOUR_LINKEDIN_URL>">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="<YOUR_DEMO_URL>">
+  <img src="https://img.shields.io/badge/Live-Demo-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Pruthvi
+role: <AI + IoT Developer>
+focus:
+  - Edge AI
+  - Embedded Systems (ESP32)
+  - Backend + Full-Stack Integration
+goal: Building real-world systems with measurable impact
 Love it — here’s a **more animated, professional README** version with typing animation, activity graph, and contribution snake.
 
 > Paste into `Pruthvi-cs/README.md`  

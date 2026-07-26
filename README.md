@@ -307,8 +307,6 @@ I’m open to collaborations in:
 This portfolio repository is available under the **MIT License** (add one if not present).
 ```
 
-
-```md
 <!-- =========================================================
   Pruthvi Portfolio README v2 (Professional + Animated + 3D)
   Replace all placeholders marked with <...>
@@ -335,6 +333,18 @@ This portfolio repository is available under the **MIT License** (add one if not
 
 </div>
 
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Pruthvi
+role: <AI + IoT Developer>
+focus:
+  - Edge AI
+  - Embedded Systems (ESP32)
+  - Backend + Full-Stack Integration
+goal: Building real-world systems with measurable impact
 ---
 
 ## 👨‍💻 About Me

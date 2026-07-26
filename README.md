@@ -267,7 +267,7 @@ This portfolio showcases my key projects, technical stack, and development journ
 ## 🧊 3D Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pruthvi-cs/Pruthvi-cs/output/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img src="https://raw.githubusercontent.com/Pruthvi-cs/Portfolio/output/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 ## 🧊 3D Contribution Animation

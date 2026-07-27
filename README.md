@@ -598,7 +598,7 @@ I’m open to collaborations in:
 
 This project is licensed under the **MIT License**.  
 (You can add `LICENSE` file if not present.)
-```
+
 
 ---
 

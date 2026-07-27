@@ -603,3 +603,134 @@ This project is licensed under the **MIT License**.
 ---
 
 If you want next, I can give you a **fill-in checklist** (just 2 minutes) so you can replace all placeholders without missing anything.
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Pruthvi
+
+### 💻 Computer Science Student
+### 🔐 Cyber Security Enthusiast
+### 🌐 Networking Learner
+### 🤖 AI • IoT • Open Source
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Cyber+Security;Networking;Python+Developer;ESP32+%7C+IoT;OpenCV+Developer;Always+Learning..." />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```bash
+> whoami
+
+Name        : Pruthvi
+Username    : pruthvi-cs
+Education   : Computer Science
+Country     : India
+
+Learning:
+- Cyber Security
+- Networking
+- AI
+- OpenCV
+- Docker
+
+Goal:
+Become a Security Engineer and Build Awesome Projects
+```
+
+---
+
+# 🚀 Tech Stack
+
+## Programming
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+
+---
+
+## Web
+
+![HTML5](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+---
+
+## AI & Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-black?style=for-the-badge)
+
+---
+
+## Embedded
+
+![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=pruthvi-cs&show_icons=true&theme=github_dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=pruthvi-cs&theme=github-dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi-cs&layout=compact&theme=github_dark)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=pruthvi-cs&theme=matrix)
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Networking
+- Ethical Hacking
+- Linux
+- Docker
+- AI
+- OpenCV
+- ESP32
+
+---
+
+# 📌 Featured Projects
+
+- 🚀 Networking Labs
+- 🔐 Cyber Security
+- 🤖 AI Projects
+- 📷 OpenCV
+- 📡 ESP32 IoT
+- 🌐 Web Development
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/pruthvi-cs
+
+---
+
+<div align="center">
+
+### ⭐ Building • Breaking • Learning ⭐
+
+</div>

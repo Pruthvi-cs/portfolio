@@ -72,7 +72,7 @@ Love it — here’s a **more animated, professional README** version with typin
 </div>
 
 ---
-
+<img src="https://komarev.com/ghpvc/?username=pruthvi-cs&style=for-the-badge&color=00ff88"/>
 ## 💫 About Me
 
 ```yaml

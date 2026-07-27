@@ -36,7 +36,7 @@ You can explore the live, fully interactive website right here:
 
 ## 👨‍💻 About Me
 
-```yaml
+
 name: Pruthvi
 role: <AI + IoT Developer>
 focus:

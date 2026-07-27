@@ -36,7 +36,7 @@ You can explore the live, fully interactive website right here:
 
 ## 👨‍💻 About Me
 
-```yaml
+```md
 name: Pruthvi
 role: <AI + IoT Developer>
 focus:
@@ -46,12 +46,7 @@ focus:
 goal: Building real-world systems with measurable impact
 Love it — here’s a **more animated, professional README** version with typing animation, activity graph, and contribution snake.
 
-> Paste into `Pruthvi-cs/README.md`  
-> Replace:
-> - `YOUR_EMAIL_HERE`
-> - `YOUR_LINKEDIN_USERNAME`
-
-```md
+```
 <!-- Animated Professional GitHub Profile README -->
 
 <div align="center">

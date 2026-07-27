@@ -40,12 +40,10 @@ You can explore the live, fully interactive website right here:
 <img src="https://github-profile-trophy.vercel.app/?username=pruthvi-cs&theme=matrix&no-frame=true"/>
 
 ---
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=pruthvi-cs&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pruthvi-cs&show_icons=true&theme=github_dark&hide_border=true"/>
 
 ---
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi-cs&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi-cs&layout=compact&theme=github_dark"/>
 
 ---
 ## 👨‍💻 About Me

@@ -46,6 +46,27 @@ You can explore the live, fully interactive website right here:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthvi-cs&layout=compact&theme=github_dark"/>
 
 ---
+<div align="center">
+
+# 👋 Hi, I'm Pruthvi
+
+<img src="GitHub.jpg" width="350">
+
+### 🚀 Developer • AI • IoT • Cyber Security
+
+<p>
+<a href="https://github.com/Pruthvi-cs">
+<img src="https://img.shields.io/badge/GitHub-Pruthvi--cs-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pruthvi-cs&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Pruthvi-cs&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pruthvi-cs&theme=tokyo-night"/>
+
+</div>
 ## 👨‍💻 About Me
 
 ```md

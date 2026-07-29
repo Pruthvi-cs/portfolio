@@ -33,7 +33,7 @@ You can explore the live, fully interactive website right here:
 
 </div>
 <p align="center">
-  <img src="assets/i1.png" width="400">
+  <img src="assects/i1.png" width="400">
 </p>
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthvi-cs&theme=github-dark"/>

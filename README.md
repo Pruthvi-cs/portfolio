@@ -79,7 +79,7 @@ focus:
   - Embedded Systems (ESP32)
   - Backend + Full-Stack Integration
 goal: Building real-world systems with measurable impact
-Love it — here’s a **more animated, professional README** version with typing animation, activity graph, and contribution snake.
+Love it — here’s a **more animated, professional README** version with typing animation, activity graph, and contribution snake. hi macha
 
 ```
 <!-- Animated Professional GitHub Profile README -->

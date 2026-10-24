@@ -9,7 +9,7 @@ You can explore the live, fully interactive website right here:
 
 <!-- =========================================================
   Pruthvi Portfolio README v2 (Professional + Animated + 3D)
-  Replace all placeholders marked with <...> hi ptvi
+  Replace all placeholders marked with <...> hi ptviraj
   
 ========================================================= -->
 

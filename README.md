@@ -51,7 +51,7 @@ You can explore the live, fully interactive website right here:
 ---
 <div align="center">
 
-# 👋 Hi, I'm Pruthvi
+# 👋 Hi, I'm Pruthviraj
 
 <img src="GitHub.jpg" width="350">
 
